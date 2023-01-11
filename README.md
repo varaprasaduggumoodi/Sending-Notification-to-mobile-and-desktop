@@ -7,6 +7,9 @@ Install the myNotifier app using https://play.google.com/store/apps/details?id=c
 After registering, add this device in the mobile app
 Then reveal the api key from the site and paste the api key in the code.
 Then run the code to send the notifications to the mobile.
+sample Screenshot:
+![WhatsApp Image 2023-01-11 at 22 48 26](https://user-images.githubusercontent.com/122374448/211873233-042b557e-abde-48bd-8d2a-cfb4531cd158.jpg)
+
 
 To send the notifications to the desktop
 Install the plyer modules and 
